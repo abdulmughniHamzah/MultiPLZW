@@ -1,3 +1,5 @@
-# the entry points to this project is the file search.cpp
+# This c++ project code implements our submitted paper "MultiPLZW: A Novel Multiple Pattern Matching Search in LZW-Compressed Data".
 
-# the data are supposed to be under the directory < /test-data>
+# The entry points to this project is the file search.cpp
+
+# The data are supposed to be under the directory < /test-data>
