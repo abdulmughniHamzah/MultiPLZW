@@ -4,8 +4,8 @@
 
  The data are supposed to be under the directory < /test-data>
 
-#Commands:
-*********
+# Commands:
+***********
 compile: g++ -g  search.cpp -o output.out -std=c++11
 ====================================================
 run: ./output.out
